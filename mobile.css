@@ -1,0 +1,59 @@
+/* COMMENT THIS CODE FOR PRINTABLE VERSION */
+
+html {
+  font-size: 20px;
+}
+
+body {
+  height: auto;
+  width: auto;
+  box-shadow: none;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+header {
+  padding: 1rem 1rem 0.75rem 1rem;
+}
+
+main {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.title {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.contact-info {
+  display: block;
+}
+
+.contact-info-item {
+  margin-bottom: 0.25rem;
+}
+
+.item-title-date-container {
+  display: block;
+}
+
+.item-subtitle-container {
+  display: block;
+}
+
+.item-date {
+  margin-left: 1.125rem;
+}
+
+.item-subtitle:first-child {
+  margin-bottom: 0;
+}
+
+.projects-container {
+  display: block;
+}
+
+.resume {
+  margin-bottom: 0.625rem !important;
+}
