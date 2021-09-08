@@ -170,8 +170,14 @@ a:active {
 
 .projects-container {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr; */
 }
+
+/* .dotnet-project {
+  grid-column: 1 / span 2;
+} */
 
 /* COMMENT THIS CODE FOR PRITNTABLE VERSION */
 body {
