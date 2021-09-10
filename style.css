@@ -161,6 +161,7 @@ a:link,
 a:visited {
   color: #60a5fa;
   text-decoration: none;
+  transition: color 0.2s;
 }
 
 a:hover,
