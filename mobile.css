@@ -1,9 +1,5 @@
 /* COMMENT THIS CODE FOR PRINTABLE VERSION */
 
-html {
-  font-size: 20px;
-}
-
 body {
   height: auto;
   width: auto;
@@ -54,6 +50,7 @@ main {
   display: block;
 }
 
-.resume {
+.resume,
+.spring-project {
   margin-bottom: 0.625rem !important;
 }
