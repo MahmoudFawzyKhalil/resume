@@ -1,5 +1,9 @@
 /* COMMENT THIS CODE FOR PRINTABLE VERSION */
 
+html {
+  font-size: 26px;
+}
+
 body {
   height: auto;
   width: auto;
