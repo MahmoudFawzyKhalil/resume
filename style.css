@@ -201,8 +201,9 @@ a:visited {
 
 .site {
   color: #60a5fa !important;
-} */
+}
 
-/* .projects-container {
+.projects-container {
   text-align: justify;
+  grid-template-columns: 1fr 1fr 1fr;
 } */
